@@ -4,3 +4,7 @@ Curso de Udemy - [JavaScript Moderno Guía Definitiva Construye +15 Proyectos Tu
 
 ## Proyectos
 - [Carrito de compras](https://carritocompras-hectormoreira.netlify.app/)
+
+
+## Recursos
+- [Email regex](https://emailregex.com/)

@@ -3,8 +3,8 @@ Curso de Udemy - [JavaScript Moderno Guía Definitiva Construye +15 Proyectos Tu
 
 
 ## Proyectos
-- [Carrito de compras](/JavaScript-Moderno-Proyectos/CarritoDeCompras/)
-- [Simulador envío de emails](/JavaScript-Moderno-Proyectos/SimuladorEnvioEmail/)
+- [Carrito de compras](/CarritoDeCompras/)
+- [Simulador envío de emails](/SimuladorEnvioEmail/)
 
 
 ## Recursos
